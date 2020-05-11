@@ -22,7 +22,7 @@ h1 {
 	grid-column-start: 1;
 	grid-column-end: 4;
 	
-	background-image: url('top.jpg');
+	background-image: url('top.JPG');
 	background-size: cover;
 	
 }
@@ -31,7 +31,7 @@ h1 {
 	grid-column-start: 1;
 	grid-column-end: 2;
 	
-	background-image: url('side1.jpg');
+	background-image: url('side1.JPG');
 	background-size: cover;
 }
 
@@ -46,7 +46,7 @@ h1 {
 	grid-column-start: 3;
 	grid-column-end: 4;
 	
-	background-image: url('side2.jpg');
+	background-image: url('side2.JPG');
 	background-size: cover;
 }
 
